@@ -63,7 +63,8 @@
     "at_bot_inevitable_reply": false
   },
   "memory": {
-    "memory_ban_words": []
+    "memory_ban_words": [],
+    "ban_msgs_regex": []
   },
   "groups": {
     "talk_allowed": [123, 123],
